@@ -6,3 +6,4 @@ python-ffmpeg
 ffmpeg
 bs4
 uvloop
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
